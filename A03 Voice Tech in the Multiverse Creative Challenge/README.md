@@ -7,3 +7,5 @@ ZyraLink_ Speak Light, Speak True 1.mp3 3.79 MB/https://github.com/VinbelKing/Ma
 ZyraLink_ Speak Light, Speak True 2.mp3 5.48 M/https://github.com/VinbelKing/Marvin-Azuogu-AI-Portfolio-/blob/64895712f4beb99a1b40e5954791cb8d7f6ddec5/ZyraLink_%20Speak%20Light%2C%20Speak%20True%202%20(1).mp3
 
 ZyreelVoice1.wav 4/https://github.com/VinbelKing/Marvin-Azuogu-AI-Portfolio-/blob/b2d0a41d474ec4f656657d91f8a20b5b2f96922e/ZyreelVoice1%20(1).wav
+
+ZyreelVoice2.wav /https://github.com/VinbelKing/Marvin-Azuogu-AI-Portfolio-/blob/08cd35fba405e5f30076fe58727d4ee55960225b/ZyreelVoice2%20(1).wav
