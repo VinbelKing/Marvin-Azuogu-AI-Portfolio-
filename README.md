@@ -19,7 +19,7 @@
 │   │   └── results/
 
 
-│   ├── Project3/
+│   ├── Project3/Intro to Jupyter and GitHub/
 
 │   │   ├── model.py/
 
