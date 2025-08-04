@@ -4,7 +4,7 @@
 
 │   ├── Project1/NPL in Action- From Pop Culture to Processes-Marvin Azuogu
 
-│   │   ├── model.py
+│   │   ├── model.py/https:/github.com/VinbelKing/Marvin-Azuogu-AI-Portfolio-/blob/67c4415ac96396c6474de74acdc40e612ce14206/L02_Marvin_Azuogu_ITAI_2373.ipynb
 
 │   │   ├── dataset/
 
