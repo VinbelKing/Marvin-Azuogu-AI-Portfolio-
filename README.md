@@ -12,7 +12,7 @@
 
 │   └── Project2/L02 - NLP Processing Techniques
 
-│   │   ├── model.py/https:/
+│   │   ├── model.py/https:/https://github.com/VinbelKing/Marvin-Azuogu-AI-Portfolio-/blob/9d96053975b558d95f4a281699857d054e4d9a17/L02_Marvin_Azuogu_ITAI_2373.ipynb
 
 │   │   ├── dataset/https://github.com/VinbelKing/Marvin-Azuogu-AI-Portfolio-/blob/d24bbcb8f2e4abc5bbbea6781942788fd4b051c4/L02_Journal_Marvin%20Azuogu_ITAI_2373.pdf
 
