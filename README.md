@@ -4,7 +4,7 @@
 
 │   ├── Project1/NPL in Action- From Pop Culture to Processes-Marvin Azuogu
 
-│   │   ├── model.py/https:/github.com/VinbelKing/Marvin-Azuogu-AI-Portfolio-/blob/67c4415ac96396c6474de74acdc40e612ce14206/L02_Marvin_Azuogu_ITAI_2373.ipynb
+│   │   ├── model.py/
 
 │   │   ├── dataset/
 
@@ -12,16 +12,44 @@
 
 │   └── Project2/L02 - NLP Processing Techniques
 
-├── NLP-ITAI2373/
+│   │   ├── model.py/https:/github.com/VinbelKing/Marvin-Azuogu-AI-Portfolio-/blob/67c4415ac96396c6474de74acdc40e612ce14206/L02_Marvin_Azuogu_ITAI_2373.ipynb
 
-│   ├── Project1/
+│   │   ├── dataset/
 
-│   └── Project2/
+│   │   └── results/
 
-├── AI-at-the-Edge-IoT-ITAI3377/
 
-│   └── Project1/
+│   ├── Project3/
 
-└── Presentation/
+│   │   ├── model.py/
 
-    └── Pf_Vinbel_Abel_ITAI2376.pdf
+│   │   ├── dataset/
+
+│   │   └── results/
+
+│   ├── Project4/
+
+│   │   ├── model.py/
+
+│   │   ├── dataset/
+
+│   │   └── results/
+
+│   ├── Project5/
+
+│   │   ├── model.py/
+
+│   │   ├── dataset/
+
+│   │   └── results/
+
+│   ├── Project6/
+
+│   │   ├── model.py/
+
+│   │   ├── dataset/
+
+│   │   └── results/
+
+
+
