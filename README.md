@@ -14,7 +14,7 @@
 
 │   │   ├── model.py/https:/github.com/VinbelKing/Marvin-Azuogu-AI-Portfolio-/blob/67c4415ac96396c6474de74acdc40e612ce14206/L02_Marvin_Azuogu_ITAI_2373.ipynb
 
-│   │   ├── dataset/
+│   │   ├── dataset/https://github.com/VinbelKing/Marvin-Azuogu-AI-Portfolio-/blob/d24bbcb8f2e4abc5bbbea6781942788fd4b051c4/L02_Journal_Marvin%20Azuogu_ITAI_2373.pdf
 
 │   │   └── results/
 
