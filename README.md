@@ -42,15 +42,15 @@ These systems showcase the integration of multiple NLP tasks to enable seamless 
 
 │   │   ├── dataset/https://github.com/VinbelKing/Marvin-Azuogu-AI-Portfolio-/blob/193f3d3acb3c8b4b3912c0f618821f99fcd4752f/NPL%20in%20Action-%20From%20Pop%20Culture%20to%20Processes-Marvin%20Azuogu.pdf
 
-│   │   └── results/...
+│   │   └── results/My results was the connection between the fundamental skills learned in an NLP preprocessing lab and the advanced AI seen in pop culture. The lab taught you that preprocessing is a crucial step for managing the complexity of human language. This foundation enables more sophisticated NLP tasks, such as the Natural Language Understanding (NLU), Information Retrieval, and Natural Language Generation (NLG) required for a system like J.A.R.V.I.S. (from Iron Man) to function effectively. Ultimately, the document shows how these core concepts are integrated to create seamless human-computer interactions, as also exemplified by the Universal Translator from Star Trek.
 
 │   └── Project2/L02 - NLP Processing Techniques
 
 │   ├── README.md This lab was a transformative experience that highlighted the critical role of preprocessing in NLP. You realized that preprocessing is not just a preliminary step, but a strategic process for managing the "messiness" and complexity of human language.
 
-A key insight was the comparison between NLTK and spaCy for tokenization, where you discovered spaCy's integrated pipeline offers a more holistic and production-ready approach by providing POS tags and lemmas simultaneously. You also gained a deeper understanding of the trade-offs involved in stop word removal and the distinct differences between stemming and lemmatization. For tasks requiring high accuracy and meaning preservation, such as sentiment analysis, you concluded that lemmatization is the superior choice, while stemming is a faster, though less precise, alternative.
+A key insight was the comparison between NLTK and spaCy for tokenization, where you discovered spaCy's integrated pipeline offers a more holistic and production-ready approach by providing POS tags and lemmas simultaneously. I also gained a deeper understanding of the trade-offs involved in stop word removal and the distinct differences between stemming and lemmatization. For tasks requiring high accuracy and meaning preservation, such as sentiment analysis, you concluded that lemmatization is the superior choice, while stemming is a faster, though less precise, alternative.
 
-Finally, you learned that an effective preprocessing strategy must be adaptive, tailored to the specific characteristics of the text data, and that this understanding is crucial for making practical decisions in future NLP projects.
+Finally, I learned that an effective preprocessing strategy must be adaptive, tailored to the specific characteristics of the text data, and that this understanding is crucial for making practical decisions in future NLP projects.
 
 │   │   ├── model.py/https:/https://github.com/VinbelKing/Marvin-Azuogu-AI-Portfolio-/blob/9d96053975b558d95f4a281699857d054e4d9a17/L02_Marvin_Azuogu_ITAI_2373.ipynb
 
