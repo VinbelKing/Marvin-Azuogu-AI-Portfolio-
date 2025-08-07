@@ -1,6 +1,19 @@
 # Marvin-Azuogu-AI-Portfolio-
 
-├── README.md: This lab on basic NLP preprocessing was an illuminating experience that deepened my understanding of what truly makes natural language processing "intelligent." Before diving in, preprocessing felt like a mere preliminary step—a necessary chore before the real work began. However, this module emphatically drove home its pivotal role in shaping the effectiveness, efficiency, and even the interpretability of any downstream NLP task. 
+├── README.md: This the overview of the skills and technologies I learned in ITAI 2373 Natural Language Processing (NLP) class, which I gained a practical understanding of the following fundamental NLP processes and techniques:
+NLP Processing Techniques: You learned the foundational steps of processing raw text data. This includes tasks like tokenization (breaking text into words or sentences), normalization, and stemming or lemmatization (reducing words to their base form).
+Text Representation: I learned how to transform unstructured text into a numerical format that machine learning models can understand. This likely involved techniques such as Bag-of-Words, TF-IDF (Term Frequency-Inverse Document Frequency), or word embeddings.
+Part-of-Speech (POS) Tagging: I practiced identifying and tagging words in a text based on their grammatical role (e.g., noun, verb, adjective), a key step in many NLP pipelines.
+Sentiment and Emotion Analysis: I learned how to analyze text to determine the underlying sentiment (e.g., positive, negative, neutral) or specific emotions (e.g., joy, anger, sadness). This is a crucial skill for understanding public opinion and customer feedback.
+Project-Based Skills
+The curriculum was heavily focused on applying skills through practical, hands-on projects.
+Creative Challenges: A project like "Voice Tech in the Multiverse" involved exploring how voice-based technology and NLP can be used in creative or unconventional ways. This taught me to think outside the box and apply my skills to novel problems.
+NewsBot Intelligence System: This mid-term and final project was a comprehensive application of my skills. I built a system to process news articles, extract information, analyze sentiment, or summarize content. This capstone project demonstrated the ability to integrate various NLP techniques into a functional, real-world application.
+Key Technologies and Tools
+The course provided hands-on experience with industry-standard tools and platforms.
+Jupyter: I used Jupyter notebooks as my primary environment for writing and executing code, allowing me to combine live code, visualizations, and explanatory text in a single document.
+GitHub: I used Git and GitHub for version control and collaborative work on projects, which are essential skills for any developer or data scientist.
+Python Libraries: While not explicitly listed, the course topics strongly imply the use of popular NLP libraries such as NLTK, spaCy, or Hugging Face Transformers for tasks like text preprocessing, POS tagging, and sentiment analysis.
 
 │   ├── Project1/NPL in Action- From Pop Culture to Processes-Marvin Azuogu
 
