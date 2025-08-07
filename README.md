@@ -56,12 +56,26 @@ Finally, I learned that an effective preprocessing strategy must be adaptive, ta
 
 │   │   ├── dataset/https://github.com/VinbelKing/Marvin-Azuogu-AI-Portfolio-/blob/d24bbcb8f2e4abc5bbbea6781942788fd4b051c4/L02_Journal_Marvin%20Azuogu_ITAI_2373.pdf
 
-│   │   └── results/
+│   │   └── results/The results of my NLP Processing Techniques is a pivotal, strategic phase in NLP, not a mere preliminary step. I gained key insights into the "messiness" of human language and the critical trade-offs involved. I learned that spaCy's integrated approach to tokenization is more holistic than NLTK's, and that lemmatization is often a better choice than stemming for tasks requiring high accuracy, such as sentiment analysis. Ultimately, the lab taught me that the best preprocessing pipeline is an adaptive one, carefully tailored to the specific type of data and the goals of the project.
 
 
 │   ├── Project3/Intro to Jupyter and GitHub/
 
-│   ├── README.md 
+│   ├── README.md In this lab, I successfully completed my first exploration of Jupyter Notebooks and GitHub, learning how to use both for interactive computing and version control.
+
+Jupyter Notebook Experience: I accessed Jupyter through Anaconda Navigator and created a new notebook. I practiced using both markdown and code cells, performing basic Python operations and documenting your work with narrative explanations.
+
+GitHub Experience: I created a new public repository and uploaded your notebook file, gaining a foundational understanding of how GitHub functions as a platform for remote storage and collaboration.
+
+Key Learnings
+Jupyter Notebook: I learned the key difference between markdown and code cells and found value in being able to mix code with narrative explanations for clear documentation.
+
+GitHub: I gained insight into how developers manage code versions and collaborate on projects by creating a repository and managing file visibility.
+
+Challenges and Resolutions: I successfully navigated and overcame two key challenges: a file upload issue on GitHub and initially understanding the distinction between markdown and code cells.
+
+Next Steps
+My experience has sparked an interest in exploring more direct integrations between Jupyter and GitHub, such as using the Git command-line interface or extensions like JupyterLab-Git, which would streamline the process of version control for my data science projects.
 
 │   │   ├── model.py/
 
