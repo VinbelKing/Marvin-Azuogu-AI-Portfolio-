@@ -90,8 +90,8 @@ The "A03: Voice Tech in the Multiverse Creative Challenge," where we designed a 
 
 │   │   ├── model.py/
 
-│   │   ├── dataset/https://github.com/VinbelKing/Marvin-Azuogu-AI-Portfolio-/blob/653b924c1b97dbc0d7098a2c599238fdd6933c79/A03_FSM%C2%B2%20(FSM%20Squared)_FaizaAbdullah_ITA2373%20(1).pdf
-
+│   │   ├── dataset/[https://github.com/VinbelKing/Marvin-Azuogu-AI-Portfolio-/blob/653b924c1b97dbc0d7098a2c599238fdd6933c79/A03_FSM%C2%B2%20(FSM%20Squared)_FaizaAbdullah_ITA2373%20(1).pdf
+](https://github.com/VinbelKing/Marvin-Azuogu-AI-Portfolio-/tree/8432859633baad51dc9320472d3f468c21cf0b01/A03%20Voice%20Tech%20in%20the%20Multiverse%20Creative%20Challenge)
 │   │   └── results/It was a creative challenge where you designed a universal translator named "ZyraLink" for an alien species, the Zy'reel. There was unique acoustic details, environmental, and biological challenges of the alien world, Zylaris, and equally technical solutions. These solutions include a custom preprocessing pipeline with specialized hardware to capture both ultrasonic and bioluminescent signals, and software to filter noise, normalize signals, align multimodal data, and translate the communication using a neural network model.
 
 │   ├── Project5/
