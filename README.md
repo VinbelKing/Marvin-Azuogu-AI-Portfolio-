@@ -27,6 +27,8 @@ Python Libraries: While not explicitly listed, the course topics strongly imply 
 
 │   ├── Project1/NPL in Action- From Pop Culture to Processes-Marvin Azuogu
 
+│   ├── README.md 
+
 │   │   ├── model.py/
 
 │   │   ├── dataset/
@@ -34,6 +36,8 @@ Python Libraries: While not explicitly listed, the course topics strongly imply 
 │   │   └── results/
 
 │   └── Project2/L02 - NLP Processing Techniques
+
+│   ├── README.md 
 
 │   │   ├── model.py/https:/https://github.com/VinbelKing/Marvin-Azuogu-AI-Portfolio-/blob/9d96053975b558d95f4a281699857d054e4d9a17/L02_Marvin_Azuogu_ITAI_2373.ipynb
 
@@ -44,6 +48,8 @@ Python Libraries: While not explicitly listed, the course topics strongly imply 
 
 │   ├── Project3/Intro to Jupyter and GitHub/
 
+│   ├── README.md 
+
 │   │   ├── model.py/
 
 │   │   ├── dataset/https://github.com/VinbelKing/Marvin-Azuogu-AI-Portfolio-/blob/407de435f2e1c20eba1d69602b5ac69663b04882/L001_Marvin_Azuogu_ITAI2373.pdf
@@ -51,6 +57,8 @@ Python Libraries: While not explicitly listed, the course topics strongly imply 
 │   │   └── results/
 
 │   ├── Project4/A03 Voice Tech in the Multiverse Creative Challenge
+
+│   ├── README.md 
 
 │   │   ├── model.py/
 
@@ -60,6 +68,8 @@ Python Libraries: While not explicitly listed, the course topics strongly imply 
 
 │   ├── Project5/
 
+│   ├── README.md 
+
 │   │   ├── model.py/
 
 │   │   ├── dataset/
@@ -68,11 +78,57 @@ Python Libraries: While not explicitly listed, the course topics strongly imply 
 
 │   ├── Project6/
 
+│   ├── README.md 
+
 │   │   ├── model.py/
 
 │   │   ├── dataset/
 
 │   │   └── results/
+
+│   ├── Project7/
+
+│   ├── README.md 
+
+│   │   ├── model.py/
+
+│   │   ├── dataset/
+
+│   │   └── results/
+
+│   ├── Project8/
+
+│   ├── README.md 
+
+│   │   ├── model.py/
+
+│   │   ├── dataset/
+
+│   │   └── results/
+
+│   ├── Project9/
+
+│   ├── README.md 
+
+│   │   ├── model.py/
+
+│   │   ├── dataset/
+
+│   │   └── results/
+
+│   ├── Project10/
+
+│   ├── README.md 
+
+│   │   ├── model.py/
+
+│   │   ├── dataset/
+
+│   │   └── results/
+
+
+
+
 
 
 
