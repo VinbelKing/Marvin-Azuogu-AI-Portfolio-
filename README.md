@@ -81,7 +81,7 @@ My experience has sparked an interest in exploring more direct integrations betw
 
 │   │   ├── dataset/https://github.com/VinbelKing/Marvin-Azuogu-AI-Portfolio-/blob/407de435f2e1c20eba1d69602b5ac69663b04882/L001_Marvin_Azuogu_ITAI2373.pdf
 
-│   │   └── results/
+│   │   └── results/I successfully learned to use Jupyter Notebooks for interactive computing and GitHub for version control. I discovered the value of mixing markdown and code in Jupyter for clear documentation and gained a foundational understanding of how GitHub facilitates collaboration. I equally overcame initial challenges with file uploads and are now interested in exploring more direct integrations between the two platforms.
 
 │   ├── Project4/A03 Voice Tech in the Multiverse Creative Challenge
 
