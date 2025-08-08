@@ -124,7 +124,7 @@ The "A03: Voice Tech in the Multiverse Creative Challenge," where we designed a 
 
 │   │   └── results/
 
-│   ├── Project8/
+│   ├── Project8/Mid-Term Group Project: NewsBot Intelligence System
 
 │   ├── README.md 
 
