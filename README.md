@@ -114,7 +114,7 @@ The "A03: Voice Tech in the Multiverse Creative Challenge," where we designed a 
 
 │   │   └── results/
 
-│   ├── Project7/
+│   ├── Project7/L07 Sentiment and Emotion Analysis in the Real World
 
 │   ├── README.md 
 
