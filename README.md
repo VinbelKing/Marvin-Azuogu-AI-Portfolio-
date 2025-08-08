@@ -108,7 +108,7 @@ The "A03: Voice Tech in the Multiverse Creative Challenge," where we designed a 
 
 │   ├── README.md 
 
-│   │   ├── model.py/
+│   │   ├── model.py/https://github.com/VinbelKing/Marvin-Azuogu-AI-Portfolio-/blob/8420f6866cf061f9bbcd805d23762c3697c7bfef/L05_Azuogu_Marvin_ITAI2373.ipynb
 
 │   │   ├── dataset/
 
