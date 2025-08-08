@@ -94,17 +94,17 @@ The "A03: Voice Tech in the Multiverse Creative Challenge," where we designed a 
 ](https://github.com/VinbelKing/Marvin-Azuogu-AI-Portfolio-/tree/8432859633baad51dc9320472d3f468c21cf0b01/A03%20Voice%20Tech%20in%20the%20Multiverse%20Creative%20Challenge)
 │   │   └── results/It was a creative challenge where you designed a universal translator named "ZyraLink" for an alien species, the Zy'reel. There was unique acoustic details, environmental, and biological challenges of the alien world, Zylaris, and equally technical solutions. These solutions include a custom preprocessing pipeline with specialized hardware to capture both ultrasonic and bioluminescent signals, and software to filter noise, normalize signals, align multimodal data, and translate the communication using a neural network model.
 
-│   ├── Project5/https://github.com/VinbelKing/Marvin-Azuogu-AI-Portfolio-/blob/063eca5f0198c91f9475b82395e75085c7efe241/L04__Marvin%20Azuogu_ITAI_I2373%20(1).ipynb
-
+│   ├── Project5/Lab 04: Text Representation
 │   ├── README.md 
 
-│   │   ├── model.py/
+│   │   ├── model.py/https://github.com/VinbelKing/Marvin-Azuogu-AI-Portfolio-/blob/063eca5f0198c91f9475b82395e75085c7efe241/L04__Marvin%20Azuogu_ITAI_I2373%20(1).ipynb
 
-│   │   ├── dataset/
+
+│   │   ├── dataset/https://github.com/VinbelKing/Marvin-Azuogu-AI-Portfolio-/blob/b83f0f3825e505071cd76fd90b4e5cf2875f8a2b/L04_Journal_Marvin_Azuogu_ITAI_2373.docx
 
 │   │   └── results/
 
-│   ├── Project6/
+│   ├── Project6/Lab 05: Part-of-Speech Tagging in the Real World
 
 │   ├── README.md 
 
