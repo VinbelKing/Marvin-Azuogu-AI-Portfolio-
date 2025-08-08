@@ -134,7 +134,7 @@ The "A03: Voice Tech in the Multiverse Creative Challenge," where we designed a 
 
 │   │   └── results/
 
-│   ├── Project9/
+│   ├── Project9/Final Project: NewsBot Intelligence System 2.0
 
 │   ├── README.md 
 
@@ -144,6 +144,8 @@ The "A03: Voice Tech in the Multiverse Creative Challenge," where we designed a 
 
 │   │   └── results/
 
+Marvin Azuogu
+marvin.azuougu@gmail.com
 
 
 
