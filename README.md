@@ -144,18 +144,6 @@ The "A03: Voice Tech in the Multiverse Creative Challenge," where we designed a 
 
 │   │   └── results/
 
-│   ├── Project10/
-
-│   ├── README.md 
-
-│   │   ├── model.py/
-
-│   │   ├── dataset/
-
-│   │   └── results/
-
-
-
 
 
 
