@@ -1,0 +1,22 @@
+Marvin-Azuogu-AI-Portfolio/
+│
+├── README.md
+│
+├── DeepLearning-ITAI2376/
+│   ├── Project1/
+│   │   ├── README.md
+│   │   ├── main.ipynb
+│   │   └── results/
+│   └── Project2/
+│       ├── README.md
+│       └── code.py
+│
+├── NLP-ITAI2373/
+│   ├── Project1/
+│   ├── Project2/
+│
+├── AI-Edge-IoT-ITAI3377/
+│   ├── EdgeProject/
+│
+└── Presentation/
+    └── Pf_VinbelAbel_ITAI2376.pdf
