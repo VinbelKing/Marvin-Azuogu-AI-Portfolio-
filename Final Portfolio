@@ -9,17 +9,29 @@ Deep Learning is a transformative field powering innovations in computer vision,
 │
 ├── DeepLearning-ITAI2376/
 │   ├── Project1/A02 A Comparative Analysis of Machine Learning and Deep Learning Tools and Frameworks: 
-https://eagleonline.hccs.edu/courses/307320/assignments/7730214/submissions/468117
+
 │   │   ├── main.ipynb
 │   │   └── results/
 │   └── Project2/L02 Exploring Deep Learning Tools: A No-Code Introduction to TensorFlow and Keras: 
-https://eagleonline.hccs.edu/courses/307320/assignments/7730220/submissions/468117
+
 │       ├── README.md
 │       └── code.py
-│
-├── NLP-ITAI2373/
-│   ├── Project1/
-│   ├── Project2/
+│   ├── Project3/A03 Neural Network Zoo:
+
+│       ├── README.md
+│       └── code.py
+│   ├── Project4/
+│       ├── README.md
+│       └── code.py
+│   ├── Project5/
+│       ├── README.md
+│       └── code.py
+│   ├── Project6/
+│       ├── README.md
+│       └── code.py
+│   ├── Project6/
+│       ├── README.md
+│       └── code.py
 │
 ├── AI-Edge-IoT-ITAI3377/
 │   ├── EdgeProject/
