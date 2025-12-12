@@ -8,33 +8,43 @@ Welcome to my Deep Learning Applied AI Portfolio, created as part of the Applied
 Deep Learning is a transformative field powering innovations in computer vision, natural language processing, robotics, recommendation systems, and autonomous decision-making. Through this portfolio, I demonstrate my mastery of neural network fundamentals, practical implementation techniques, and best practices for building AI systems responsibly and efficiently.
 │
 ├── DeepLearning-ITAI2376/
-│   ├── Project1/A02 A Comparative Analysis of Machine Learning and Deep Learning Tools and Frameworks: 
-
+│   ├── Project1/A02 A Comparative Analysis of Machine Learning and Deep Learning Tools and Frameworks:
+                /https://eagleonline.hccs.edu/courses/307320/assignments/7730214/submissions/468117?download=81031563
+                /https://eagleonline.hccs.edu/courses/307320/assignments/7730214/submissions/468117?download=81031571    
 │   │   ├── main.ipynb
 │   │   └── results/
 │   └── Project2/L02 Exploring Deep Learning Tools: A No-Code Introduction to TensorFlow and Keras: 
-
+                /https://eagleonline.hccs.edu/courses/307320/assignments/7730220/submissions/468117?download=81051211
 │       ├── README.md
 │       └── code.py
 │   ├── Project3/A03 Neural Network Zoo:
-
+                /https://eagleonline.hccs.edu/courses/307320/assignments/7730215/submissions/468117?download=81263249
+                /https://eagleonline.hccs.edu/courses/307320/assignments/7730215/submissions/468117?download=81263250
 │       ├── README.md
 │       └── code.py
-│   ├── Project4/
+│   ├── Project4/A04 ITAI 2376 Deep Learning for an 11 year old:
+                /https://eagleonline.hccs.edu/courses/307320/assignments/7730216/submissions/468117?download=81439046
 │       ├── README.md
 │       └── code.py
-│   ├── Project5/
+│   ├── Project5/L04 Lab ITAI 2376:
+                /https://eagleonline.hccs.edu/courses/307320/assignments/7730221/submissions/468117?download=81441008
+                /https://eagleonline.hccs.edu/courses/307320/assignments/7730221/submissions/468117?download=81441009
 │       ├── README.md
 │       └── code.py
-│   ├── Project6/
+│   ├── Project6/A05 Analyzing "Arrival" Through the Lens of NLP:
+                /https://eagleonline.hccs.edu/courses/307320/assignments/7730217/submissions/468117?download=81596472
 │       ├── README.md
 │       └── code.py
-│   ├── Project6/
+│   ├── Project7/Midterm Creating Images with Diffusion Models:
+                /https://eagleonline.hccs.edu/courses/307320/assignments/7730222/submissions/468117?download=81753048
+                /https://eagleonline.hccs.edu/courses/307320/assignments/7730222/submissions/468117?download=81753049
+│       ├── README.md
+│       └── code.py/https://eagleonline.hccs.edu/courses/307320/assignments/7730222/submissions/468117?download=81753046
+│   ├── Project8/Final Course Project AI Agent Creation:
+                /https://eagleonline.hccs.edu/courses/307320/assignments/7730218/submissions/468117?download=82489526
+                /https://eagleonline.hccs.edu/courses/307320/assignments/7730218/submissions/468117?download=82489529
+│       ├── README.md/https://eagleonline.hccs.edu/courses/307320/assignments/7730218/submissions/468117?download=82489528
+│       └── code.py/https://eagleonline.hccs.edu/courses/307320/assignments/7730218/submissions/468117?download=82489527
+│   ├── Project9/
 │       ├── README.md
 │       └── code.py
-│
-├── AI-Edge-IoT-ITAI3377/
-│   ├── EdgeProject/
-│
-└── Presentation/
-    └── Pf_VinbelAbel_ITAI2376.pdf
